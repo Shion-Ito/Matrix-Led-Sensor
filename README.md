@@ -13,7 +13,7 @@ will use will allow us to interact with the led matrix screen. The pen and scree
 connected together in an organized manner where only one wire will be directly connected from
 the pen to the matrix screen. Furthermore, it will use adafruit to monitor the photoresistor value
 and also measure how and where the pen is located.
-Materials Needed:
+# Materials Needed:
 ● Raspberry Pi
 ● Breadboard
 ● 64x64 RGB LED matrix
